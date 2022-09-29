@@ -50,6 +50,7 @@
     border-radius: 25px;
     padding:0.75rem 2rem;
     cursor: pointer; 
+    border: var(--Transparent-white);
  }
 
 
